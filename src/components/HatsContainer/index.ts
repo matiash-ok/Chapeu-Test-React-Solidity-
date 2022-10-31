@@ -1,0 +1,1 @@
+export { HatsContainer } from "./HatsContainer";
