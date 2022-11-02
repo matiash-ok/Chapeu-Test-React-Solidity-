@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Chapeu Test 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ive learnt how to implement Solidity with React , making smart contrac
 
 ## Available Scripts
 
