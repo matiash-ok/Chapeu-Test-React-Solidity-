@@ -1,6 +1,6 @@
 # Chapeu Test 
 
-Ive learnt how to implement Solidity with React , making smart contrac
+Ive learnt how to implement Solidity with React , making smart contract
 
 ## Available Scripts
 
